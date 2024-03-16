@@ -1,8 +1,12 @@
-### Hi there 👋, I'm Mohammed Taher from 🇮🇶
+<div align="center">
+  
+<h1>Hi there 👋, I'm Mohammed Taher from 🇮🇶</h1>
 
-### I'm Freelance Programming Educator.
+<h2>I'm Freelance Programming Educator.</h2>
 
+</div>
 
+![](https://hit.yhype.me/github/profile?user_id=7952356)
 
 <!--
 **Mohammed-Taher/Mohammed-Taher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
