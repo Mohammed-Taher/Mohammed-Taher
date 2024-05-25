@@ -2,7 +2,7 @@
   
 <h1>Hi there 👋, I'm Mohammed Taher from 🇮🇶</h1>
 
-<h2>I'm Freelance Programming Educator.</h2>
+<h2>I'm a father of two lovely kids, freelance developer, programming educator and chemist.</h2>
 
 </div>
 
