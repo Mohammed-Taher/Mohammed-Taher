@@ -1,6 +1,6 @@
 <div align="center">
   
-<h1>Hi there 👋, I'm Mohammed Taher from 🇮🇶</h1>
+<h1>Hi there 👋, I'm Mohammed Taher from Iraq 🇮🇶</h1>
 
 <h2>I'm a freelance developer, programming educator and chemist.</h2>
 
